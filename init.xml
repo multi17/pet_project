@@ -1,0 +1,5 @@
+<date init>
+  -request *DATE*
+  print "will do it later"
+</date>
+// waga waga waga
